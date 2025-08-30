@@ -1,7 +1,7 @@
 # mobile-analytics-ab-test
 📱🧪 Este proyecto es un análisis completo del comportamiento del usuario y los resultados de un experimento A/A/B en una aplicación de venta de alimentos. 
 
-![AB Test Ecommerce Analysis](https://github.com/Talelfe/-mobile-analytics-ab-test/blob/master/Imagenes/Imagen%201.png)
+![AB Test Ecommerce Analysis](https://github.com/Talelfe/mobile-analytics-ab-test/blob/master/Imagenes/Imagen%201.png)
 
 📈 **El objetivo** es determinar si un cambio en el diseño de la fuente de la aplicación tuvo un impacto estadísticamente significativo en la conversión de los usuarios.
 
